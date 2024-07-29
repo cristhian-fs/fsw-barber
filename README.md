@@ -3,7 +3,7 @@
 - [x] Setup do banco
 - [x] Seeding do banco(colocar dados)
 - [x] Introdução ao Next.js
-- [] Tailwindcss e Shadcnui
+- [x] Tailwindcss e Shadcnui
 - [] Git hooks
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
