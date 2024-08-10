@@ -1,19 +1,8 @@
 import { Card, CardContent } from "./ui/card"
 import { Button } from "./ui/button"
-import { CalendarIcon, HomeIcon, LogOutIcon, MenuIcon } from "lucide-react"
+import { MenuIcon } from "lucide-react"
 import Image from "next/image"
-import {
-  Sheet,
-  SheetTrigger,
-  SheetContent,
-  SheetClose,
-  SheetHeader,
-  SheetTitle,
-} from "./ui/sheet"
-import { quickSearchOptions } from "../_constants/search"
-import { Avatar } from "./ui/avatar"
-import { AvatarImage } from "@radix-ui/react-avatar"
-import Link from "next/link"
+import { Sheet, SheetTrigger } from "@/app/_components/ui/sheet"
 import SidebarSheet from "./sidebar-sheet"
 
 export function Header() {
